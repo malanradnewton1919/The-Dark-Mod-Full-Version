@@ -253,3 +253,6 @@ This repository serves as the official landing page for The Dark Mod. The softwa
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://thedarkmod.com)
 
 **Get the most recent version of The Dark Mod today!**
+
+---
+**Last updated:** 2026-09-10 21:25:20 UTC
