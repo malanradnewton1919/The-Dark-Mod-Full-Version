@@ -255,4 +255,4 @@ This repository serves as the official landing page for The Dark Mod. The softwa
 **Get the most recent version of The Dark Mod today!**
 
 ---
-**Last updated:** 2026-09-22 18:31:28 UTC
+**Last updated:** 2026-09-22 21:47:07 UTC
